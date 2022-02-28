@@ -16,6 +16,9 @@
     "pods": "cd example && pod-install --quiet",
     "bootstrap": "yarn example && yarn && yarn pods"
   },
+  "repository": {
+    "url": "git://github.com/sallar/react-native-wagmi-charts"
+  },
   "files": [
     "src",
     "lib",
